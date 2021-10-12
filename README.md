@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoresSky
+- 👋 Hi, I’m @JosephPN
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
